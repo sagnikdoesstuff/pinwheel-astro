@@ -1,7 +1,7 @@
 {
-  "name": "pinwheel-astro",
+  "name": "sagnik-portfolio",
   "version": "1.0.0",
-  "author": "themefisher",
+  "author": "sagnik dey",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {
